@@ -1,1 +1,3 @@
-# .github
+# Dashi
+
+Create dashboards for anything.
