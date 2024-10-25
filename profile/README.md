@@ -1,3 +1,3 @@
 # Dashi
 
-Create dashboards for anything.
+Dashboard anything.
